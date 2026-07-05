@@ -35,4 +35,4 @@
 - International credential evaluation (diploma recognition)
 - Dutch SIM card
 - Install [9292](https://play.google.com/store/apps/details?id=nl.negentwee&hl=en) app
-- Apply for [OV chip card](https://www.ov-chipkaart.nl/en/personal-ov-chipkaart)
+- Apply for [OV-pas](https://www.ns.nl/en/travel/check-in-check-out/ov-pas) (succesor of [OV chip card](https://www.ov-chipkaart.nl/en/personal-ov-chipkaart))
