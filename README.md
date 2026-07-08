@@ -12,6 +12,7 @@
     - https://www.funda.nl/en/
     - https://ikwilhuren.nu/
     - https://livresidential.nl/
+    - https://calculator.rentbuster.nl/ (for verifying WWS points)
   - Docs:
     - Work contract (provided by the employer).
     - Employer's statement (provided by the employer).
