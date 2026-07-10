@@ -18,6 +18,7 @@
     - Work contract (provided by the employer).
     - Employer's statement (provided by the employer).
     - Extract from the Personal Records Database (BRP) [The Hague](https://www.denhaag.nl/en/certificates-and-official-documents/apply-for-extract-from-the-personal-records-database-brp/), [Delft](https://www.delft.nl/uittreksel-brp) (provided by the municipality, can be requested **online with DigiD**).
+    - UWV statement of employment history (Verzekeringsbericht) **without BSN** (provided by [UWV](https://mijn.uwv.nl), can be requested **online with DigiD**).
     - Previous landlord references (+ optionally rental contracts).
     - Savings/investment statements.
 - BSN registration at [The Hague International Centre](https://www.thehagueinternationalcentre.nl/) **in person** (**within 5 days**).
