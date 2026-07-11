@@ -33,11 +33,12 @@
     - Good for expats (lots of english material).
     - **Dutch IBAN is necessary**.
     - Can be registered **online**.
-    - After registration, **DigiD is necessary for login**.
+    - After registration, **DigiD is necessary for login**. ([Reinstall](https://www.zilverenkruis.nl/consumenten/service/hulp-bij-online-problemen) if you cannot log in.)
 - [TB deregistration **online**](https://www.neak.gov.hu/felso_menu/lakossagnak/ellatas_magyarorszagon/jogosultsag_az_ellatasra/kulfoldon_munkat_vallalok_bejelentese) (**within 15 days**).
   - If NAV bills you for the health service contribution, use form T1011U to get it cancelled retroactively **online**.
 - [Send the European Health Insurance Card (EHIC) back](https://www.neak.gov.hu/felso_menu/lakossagnak/ellatas_magyarorszagon/jogosultsag_az_ellatasra/kulfoldon_munkat_vallalok_bejelentese).
 - Dutch bank account.
+  - This is necessary for Wero/iDEAL (preferred for online payments).
   - After setting up an account, change the preferred name so it displays the full name. Many document requests require it.
   - [bunq](https://www.bunq.com/):
     - **Online** registration.
@@ -56,7 +57,8 @@
 - Install the [9292](https://play.google.com/store/apps/details?id=nl.negentwee&hl=en) navigation app.
 - Install the [NS](https://play.google.com/store/apps/details?id=nl.ns.android.activity&hl=en) public transport app.
 - Install the [OVpay](https://play.google.com/store/apps/details?id=nl.tls.ovpay&hl=en) public transport app.
-- Apply for [OV-pas](https://www.ns.nl/en/travel/check-in-check-out/ov-pas) (successor of [OV chip card](https://www.ov-chipkaart.nl/en/personal-ov-chipkaart)).
+- Apply for [OV-chipkaart](https://www.ov-chipkaart.nl/en/apply-for-personal-ov-chipcard).
+- Apply for [OV-pas](https://www.ns.nl/en/travel/check-in-check-out/ov-pas) (successor of [OV-chipkaart](https://www.ov-chipkaart.nl/en/personal-ov-chipkaart)).
 - [HTM](https://www.htm.nl/en/webshop/regio-vrij/#/) monthly subscription (unlimited travel on trams, buses and metros in the The Hague-Rotterdam region).
 - [NS](https://www.ns.nl/en/season-tickets/) monthly subscription: `NS Flex Dal Voordeel` or `NS Flex Weekend Vrij`.
 - GP registration.
