@@ -6,6 +6,9 @@
 
 - Secure work contract.
   - Apply for [30% ruling](https://www.belastingdienst.nl/wps/wcm/connect/en/individuals/content/coming-to-work-in-the-netherlands-30-percent-facility) **within 4 months**.
+  - Background check:
+    - BSc + MSc diplomas scanned.
+    - Role, employment dates and contact person at previous company.
 - Arrange housing. After arrival, just use the company HQ as address temporarily.
   - Platforms:
     - https://www.pararius.com/english
