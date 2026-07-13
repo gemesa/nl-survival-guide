@@ -62,6 +62,9 @@
   - [NS](https://play.google.com/store/apps/details?id=nl.ns.android.activity&hl=en) (public transport - NL)
   - [NS International](https://play.google.com/store/apps/details?id=nl.nshispeed&hl=en) (public transport - NL)
   - [OVpay](https://play.google.com/store/apps/details?id=nl.tls.ovpay&hl=en) (public transport - NL)
+  - [Buienradar](https://play.google.com/store/apps/details?id=com.supportware.Buienradar&hl=en) (weather - NL)
+  - [Marktplaats](https://play.google.com/store/apps/details?id=nl.marktplaats.android&hl=en) (marketplace - NL)
+  - [Swapfiets](https://play.google.com/store/apps/details?id=com.swapfiets&hl=en) (bicycle renting - NL)
   - [SNCB/NMBS](https://play.google.com/store/apps/details?id=be.sncbnmbs.b2cmobapp&hl=en) (public transport - BE)
     - Check out the `Train+` subscription.
   - [SNCB International](https://play.google.com/store/apps/details?id=com.nmbs&hl=en) (public transport - BE)
