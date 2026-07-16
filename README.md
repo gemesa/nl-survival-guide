@@ -59,13 +59,17 @@
     - [Changing the country of residence](https://help.revolut.com/en-NL/help/profile-and-plan/profile-plan/profile-settings/how-do-i-change-my-country-of-residence/) (and getting a Dutch IBAN) is not possible. The old account needs to be closed and a new one needs to be created.
 - Install the following apps:
   - NL:
-    - [9292](https://play.google.com/store/apps/details?id=nl.negentwee&hl=en) (journey planner)
-    - [NS](https://play.google.com/store/apps/details?id=nl.ns.android.activity&hl=en) (public transport)
-    - [NS International](https://play.google.com/store/apps/details?id=nl.nshispeed&hl=en) (public transport)
-    - [OVpay](https://play.google.com/store/apps/details?id=nl.tls.ovpay&hl=en) (public transport)
-    - [Buienradar](https://play.google.com/store/apps/details?id=com.supportware.Buienradar&hl=en) (weather)
-    - [Marktplaats](https://play.google.com/store/apps/details?id=nl.marktplaats.android&hl=en) (marketplace)
-    - [Swapfiets](https://play.google.com/store/apps/details?id=com.swapfiets&hl=en) (bicycle renting)
+    - Non-region locked:
+      - [9292](https://play.google.com/store/apps/details?id=nl.negentwee&hl=en) (journey planner)
+      - [NS](https://play.google.com/store/apps/details?id=nl.ns.android.activity&hl=en) (public transport)
+      - [NS International](https://play.google.com/store/apps/details?id=nl.nshispeed&hl=en) (public transport)
+      - [OVpay](https://play.google.com/store/apps/details?id=nl.tls.ovpay&hl=en) (public transport)
+      - [Buienradar](https://play.google.com/store/apps/details?id=com.supportware.Buienradar&hl=en) (weather)
+      - [Marktplaats](https://play.google.com/store/apps/details?id=nl.marktplaats.android&hl=en) (marketplace)
+      - [Swapfiets](https://play.google.com/store/apps/details?id=com.swapfiets&hl=en) (bicycle renting)
+    - Region locked (Note: create a 2. Google account with country of residence set to NL. The country of the main Google account can only be [changed](https://support.google.com/googleplay/answer/7431675) if it is not part of a family group.):
+      - [Tikkie](https://play.google.com/store/apps/details?id=com.abnamro.nl.tikkie&hl=en) (money-request app)
+      - [My DHL](https://play.google.com/store/apps/details?id=com.dhlparcel.nl&hl=en) (package tracking)
   - BE:
     - [SNCB/NMBS](https://play.google.com/store/apps/details?id=be.sncbnmbs.b2cmobapp&hl=en) (public transport)
       - Check out the `Train+` subscription.
