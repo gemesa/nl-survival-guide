@@ -18,6 +18,7 @@
     - https://livresidential.nl/
     - https://www.athomevastgoed.nl
     - https://www.huurwoningen.nl/
+    - https://www.vestingvastgoed.nl/
     - https://calculator.rentbuster.nl/ (for verifying WWS points)
   - Docs:
     - Work contract (provided by the employer).
