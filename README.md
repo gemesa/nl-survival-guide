@@ -16,6 +16,8 @@
     - https://www.bjornd.nl/en/home
     - https://ikwilhuren.nu/
     - https://livresidential.nl/
+    - https://www.athomevastgoed.nl
+    - https://www.huurwoningen.nl/
     - https://calculator.rentbuster.nl/ (for verifying WWS points)
   - Docs:
     - Work contract (provided by the employer).
