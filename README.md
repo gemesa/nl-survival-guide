@@ -11,7 +11,8 @@
     - Role, employment dates and contact person at previous company.
 - Arrange housing. After arrival, just use the company HQ as address temporarily.
   - Platforms:
-    - https://www.stekkies.com/en/ | https://www.pararius.com/english | https://www.funda.nl/en/
+    - https://www.stekkies.com/en/ | https://rentslam.com/en/
+    - https://www.pararius.com/english | https://www.funda.nl/en/
     - https://www.bjornd.nl/en/home | https://ikwilhuren.nu/ | https://livresidential.nl/
     - https://www.athomevastgoed.nl | https://www.huurwoningen.nl/ | https://www.vestingvastgoed.nl/
     - https://viadaan.nl/aanbod
