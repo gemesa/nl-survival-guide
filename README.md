@@ -83,8 +83,9 @@
 - [HTM](https://www.htm.nl/en/webshop/regio-vrij/#/) monthly subscription (unlimited travel on trams, buses and metros in the The Hague-Rotterdam region).
 - [NS](https://www.ns.nl/en/season-tickets/) monthly subscription: `NS Flex Dal Voordeel` or `NS Flex Weekend Vrij`.
 - GP registration.
+- Dutch SIM card/eSIM. Some Dutch services accept Dutch numbers only.
+  - [Simyo](https://www.simyo.nl/en/sim-only/bestellen)
 
 ### Optional
 
 - International credential evaluation (diploma recognition).
-- Dutch SIM card.
