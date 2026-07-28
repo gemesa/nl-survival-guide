@@ -33,6 +33,7 @@
 - [DigiD application **online**](https://digid.nl/en/aanvragen).
 - Activate [MijnOverheid](https://mijn.overheid.nl/) (website for your dealings with the Dutch authorities). **DigiD is necessary for login**.
   - After activation, download the [MijnGegevens](https://play.google.com/store/apps/details?id=nl.rijksoverheid.mijngegevens.pub) app.
+- Register my foreign marriage certificate. [Make an appointment](https://www.delft.nl/afspraak-maken-annuleren) at Gemeente Delft.
 - Health insurance coverage (**within 4 months**):
   - [System explanation](https://www.reddit.com/r/Netherlands/comments/1dyxztd/can_you_please_explain_the_healthcare_in_the/).
   - Compare insurances at [independer.nl](https://www.independer.nl/) or [zorgwijzer.nl](https://www.zorgwijzer.nl/zorgvergelijker/english#/search).
