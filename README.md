@@ -66,7 +66,7 @@
   - [Box 3: Wealth tax in the Netherlands](https://taxsavers.nl/dutch-tax-system/assets/).
   - Change the country of residence in [Lightyear](https://lightyear.com/en-hu/help/managing-my-lightyear-account/i-want-to-update-my-details)
     - TBSZ needs to be closed **in 1 month**.
-  - Register at [XTB](https://www.xtb.com/int) and [Trading 212](https://www.trading212.com/).
+  - Open account at [XTB](https://www.xtb.com/int) and [Trading 212](https://www.trading212.com/).
 - Install the following apps:
   - NL:
     - Non-region locked:
