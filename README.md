@@ -43,7 +43,7 @@
     - Can be registered **online**.
     - After registration, **DigiD is necessary for login**. ([Reinstall](https://www.zilverenkruis.nl/consumenten/service/hulp-bij-online-problemen) if you cannot log in.)
 - [TB deregistration **online**](https://www.neak.gov.hu/felso_menu/lakossagnak/ellatas_magyarorszagon/jogosultsag_az_ellatasra/kulfoldon_munkat_vallalok_bejelentese) (**within 15 days**).
-  - Send the Hatósági Bizonyítvány received from the Veszprém Vármegyei Kormányhivatal as an attachment to NAV via [e-papír](https://epapir.gov.hu/):
+  - Send the Hatósági Bizonyítvány (received from the Veszprém Vármegyei Kormányhivatal a couple of weeks later) as an attachment to NAV via [e-papír](https://epapir.gov.hu/):
     - Témacsoport: Adóügy (NAV)
     - Ügytípus: Nyilatkozat (Adóügy)
     - Címzett: NAV Veszprém Vármegyei Adó- és Vámigazgatósága
@@ -63,10 +63,10 @@
     - Provide your proof of residence **within 120 days** of becoming a client.
     - [Min. 4.30EUR/month](https://www.abnamro.nl/en/personal/payments/fees/new-fees-and-terms-2026.html).
   - Wise:
-    - Belgian IBAN (if you registered in Hungary).
+    - Belgian IBAN by default (if you registered in Hungary).
     - [Changing the country of residence](https://wise.com/help/articles/3umiLdiQoFLxh0xP36MEIO/how-do-i-update-my-country-of-residence) can be done by contacting the support and providing proof of residence documents. The review takes 1 day.
   - Revolut:
-    - Hungarian IBAN (if you registered in Hungary).
+    - Hungarian IBAN by default (if you registered in Hungary).
     - [Changing the country of residence](https://help.revolut.com/en-NL/help/profile-and-plan/profile-plan/profile-settings/how-do-i-change-my-country-of-residence/) (and getting a Dutch IBAN) is not possible. The old account needs to be closed and a new one needs to be created.
 -  Sort out the investment accounts.
   - [Box 3: Wealth tax in the Netherlands](https://taxsavers.nl/dutch-tax-system/assets/).
