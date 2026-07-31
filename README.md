@@ -15,7 +15,7 @@
     - https://www.pararius.com/english | https://www.funda.nl/en/
     - https://www.bjornd.nl/en/home | https://ikwilhuren.nu/ | https://livresidential.nl/
     - https://www.athomevastgoed.nl | https://www.huurwoningen.nl/ | https://www.vestingvastgoed.nl/
-    - https://viadaan.nl/aanbod | https://hurenbij.vesteda.com/ | https://vbtverhuurmakelaars.nl/en
+    - https://viadaan.nl/aanbod | **https://hurenbij.vesteda.com/** | **https://vbtverhuurmakelaars.nl/en**
     - https://calculator.rentbuster.nl/ (for verifying WWS points) (+ [link 1](https://www.reddit.com/r/NetherlandsHousing/comments/15l2dq0/to_those_of_you_coming_to_live_in_nl_feeling/) + [link 2](https://www.reddit.com/r/Rentbusters/))
     - https://screenme.nl/en/
   - Docs:
