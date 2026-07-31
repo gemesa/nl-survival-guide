@@ -64,7 +64,7 @@
     - [Changing the country of residence](https://help.revolut.com/en-NL/help/profile-and-plan/profile-plan/profile-settings/how-do-i-change-my-country-of-residence/) (and getting a Dutch IBAN) is not possible. The old account needs to be closed and a new one needs to be created.
 - Sort out the investment accounts.
   - [Box 3: Wealth tax in the Netherlands](https://taxsavers.nl/dutch-tax-system/assets/).
-  - Change the country of residence in [Lightyear](https://lightyear.com/en-hu/help/managing-my-lightyear-account/i-want-to-update-my-details)
+  - Change the country of residence in [Lightyear](https://lightyear.com/en-hu/help/managing-my-lightyear-account/i-want-to-update-my-details). Change the base currency to EUR as well (via the same support ticket).
     - TBSZ needs to be closed **in 1 month**.
   - Open accounts: [XTB](https://www.xtb.com/int) | [Trading 212](https://www.trading212.com/) | [DEGIRO](https://www.degiro.nl/) | [Trade Republic](https://traderepublic.com/en-de).
 - Install the following apps:
