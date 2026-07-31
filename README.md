@@ -43,13 +43,7 @@
     - Can be registered **online**.
     - After registration, **DigiD is necessary for login**. ([Reinstall](https://www.zilverenkruis.nl/consumenten/service/hulp-bij-online-problemen) if you cannot log in.)
 - [TB deregistration **online**](https://www.neak.gov.hu/felso_menu/lakossagnak/ellatas_magyarorszagon/jogosultsag_az_ellatasra/kulfoldon_munkat_vallalok_bejelentese) (**within 15 days**).
-  - Send the Hatósági Bizonyítvány (received from the Veszprém Vármegyei Kormányhivatal a couple of weeks later) as an attachment to NAV via [e-papír](https://epapir.gov.hu/):
-    - Témacsoport: Adóügy (NAV)
-    - Ügytípus: Nyilatkozat (Adóügy)
-    - Címzett: NAV Veszprém Vármegyei Adó- és Vámigazgatósága
-    - Előzmény iktatószáma: 1
-    - Tárgy: Külföldre költözés bejelentése
-  - If NAV bills you for the health service contribution, use form T1011U to get it cancelled retroactively **online**.
+  - NEAK notifies NAV automatically (confirmed by NAV on 31 Jul 2026). Still, if NAV bills you for the health service contribution, use form T1011U to get it cancelled retroactively **online**.
 - [Send the European Health Insurance Card (EHIC) back](https://www.neak.gov.hu/felso_menu/lakossagnak/ellatas_magyarorszagon/jogosultsag_az_ellatasra/kulfoldon_munkat_vallalok_bejelentese).
 - Dutch bank account.
   - This is necessary for Wero/iDEAL (preferred for online payments).
