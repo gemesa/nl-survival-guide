@@ -62,7 +62,7 @@
   - Revolut:
     - Hungarian IBAN by default (if you registered in Hungary).
     - [Changing the country of residence](https://help.revolut.com/en-NL/help/profile-and-plan/profile-plan/profile-settings/how-do-i-change-my-country-of-residence/) (and getting a Dutch IBAN) is not possible. The old account needs to be closed and a new one needs to be created.
--  Sort out the investment accounts.
+- Sort out the investment accounts.
   - [Box 3: Wealth tax in the Netherlands](https://taxsavers.nl/dutch-tax-system/assets/).
   - Change the country of residence in [Lightyear](https://lightyear.com/en-hu/help/managing-my-lightyear-account/i-want-to-update-my-details)
     - TBSZ needs to be closed **in 1 month**.
