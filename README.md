@@ -1,8 +1,6 @@
 # NL survival guide
 
-## Checklist
-
-### Mandatory
+## Mandatory
 
 - Secure work contract.
   - Apply for [30% ruling](https://www.belastingdienst.nl/wps/wcm/connect/en/individuals/content/coming-to-work-in-the-netherlands-30-percent-facility) **within 4 months**.
@@ -96,6 +94,9 @@
   - [Simyo](https://www.simyo.nl/en/sim-only/bestellen)
 - GP registration.
 
-### Optional
+## Optional
 
 - International credential evaluation (diploma recognition).
+- Refurbished mobile phones:
+  - https://swappie.com/nl-en/
+  - https://www.forza-refurbished.com/
