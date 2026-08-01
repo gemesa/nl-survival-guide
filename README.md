@@ -24,7 +24,7 @@
   - Docs:
     - Work contract (provided by the employer).
     - Employer's statement (provided by the employer).
-    - Extract from the Personal Records Database (BRP) [The Hague](https://www.denhaag.nl/en/certificates-and-official-documents/apply-for-extract-from-the-personal-records-database-brp/), [Delft](https://www.delft.nl/uittreksel-brp) (provided by the municipality, can be requested **online with DigiD**).
+    - Extract from the Personal Records Database (BRP) [Gemeente The Hague](https://www.denhaag.nl/en/certificates-and-official-documents/apply-for-extract-from-the-personal-records-database-brp/), [Gemeente Delft](https://www.delft.nl/uittreksel-brp) (provided by the municipality, can be requested **online with DigiD**).
     - UWV statement of employment history (Verzekeringsbericht) **without BSN** (provided by [UWV](https://mijn.uwv.nl), can be requested **online with DigiD**).
       - Persoonlijke gegevens --> Loongegevens --> Verzekeringsbericht --> Uncheck BSN --> Download printversie (pdf)
     - Previous landlord references (+ optionally rental contracts).
@@ -70,6 +70,7 @@
   - Change the country of residence in [Lightyear](https://lightyear.com/en-hu/help/managing-my-lightyear-account/i-want-to-update-my-details). Change the base currency to EUR as well (via the same support ticket).
     - TBSZ needs to be closed **in 1 month**.
   - Open accounts: [XTB](https://www.xtb.com/int) | [Trading 212](https://www.trading212.com/) | [DEGIRO](https://www.degiro.nl/) | [Trade Republic](https://traderepublic.com/en-de).
+    - An international proof of address might be required during KYC. Request one from [Gemeente Delft](https://www.delft.nl/uittreksel-brp) (Internationaal uittreksel fra-deu-eng (401)).
 - Install the following apps:
   - NL:
     - Non-region locked:
