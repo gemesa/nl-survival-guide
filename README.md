@@ -14,8 +14,8 @@
     - https://www.stekkies.com/en/ | https://rentslam.com/en/
     - https://www.pararius.com/english | https://www.funda.nl/en/
     - **https://hurenbij.vesteda.com/** | **https://vbtverhuurmakelaars.nl/en**
-    - **https://zoeken.schepvastgoedmanagers.nl** | **https://ikwilhuren.nu/**
-    - **https://www.woonnet-haaglanden.nl**
+    - **https://zoeken.schepvastgoedmanagers.nl** | **https://frisiamakelaars.nl/en**
+    - **https://ikwilhuren.nu/** | **https://www.woonnet-haaglanden.nl**
     - https://www.athomevastgoed.nl | https://www.huurwoningen.nl/
     - https://www.bjornd.nl/en/home | https://livresidential.nl/
     - https://viadaan.nl/aanbod | https://www.vestingvastgoed.nl/
