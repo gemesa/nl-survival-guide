@@ -94,6 +94,11 @@
 - Dutch SIM card/eSIM. Some Dutch services accept Dutch numbers only.
   - [Simyo](https://www.simyo.nl/en/sim-only/bestellen)
 - GP registration.
+- Pension tracker:
+  - https://www.mijnpensioenoverzicht.nl/en
+  - https://www.zwitserleven.nl/ (SGS BRS signed a contract with them)
+- Tax declaration:
+  - https://www.belastingdienst.nl/
 
 ## Optional
 
