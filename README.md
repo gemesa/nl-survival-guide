@@ -1,7 +1,5 @@
 # NL survival guide
 
-## Mandatory
-
 - Secure work contract.
   - Apply for [30% ruling](https://www.belastingdienst.nl/wps/wcm/connect/en/individuals/content/coming-to-work-in-the-netherlands-30-percent-facility) **within 4 months**.
   - Background check:
@@ -99,10 +97,7 @@
   - https://www.zwitserleven.nl/ (SGS BRS signed a contract with them)
 - Tax declaration:
   - https://www.belastingdienst.nl/
-
-## Optional
-
-- International credential evaluation (diploma recognition).
+- [International credential evaluation](https://www.idw.nl/en/) (diploma recognition).
 - Refurbished mobile phones:
   - https://swappie.com/nl-en/
   - https://www.forza-refurbished.com/
