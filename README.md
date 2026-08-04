@@ -13,10 +13,11 @@
     - https://www.pararius.com/english | https://www.funda.nl/en/
     - **https://hurenbij.vesteda.com/** | **https://vbtverhuurmakelaars.nl/en**
     - **https://zoeken.schepvastgoedmanagers.nl** | **https://frisiamakelaars.nl/en**
-    - **https://ikwilhuren.nu/** | **https://www.woonnet-haaglanden.nl**
+    - **https://ikwilhuren.nu/**
     - https://www.athomevastgoed.nl | https://www.huurwoningen.nl/
     - https://www.bjornd.nl/en/home | https://livresidential.nl/
     - https://viadaan.nl/aanbod | https://www.vestingvastgoed.nl/
+    - https://www.woonnet-haaglanden.nl (paid, depends on how long you have been registered)
     - https://calculator.rentbuster.nl/ (for verifying WWS points) (+ [link 1](https://www.reddit.com/r/NetherlandsHousing/comments/15l2dq0/to_those_of_you_coming_to_live_in_nl_feeling/) + [link 2](https://www.reddit.com/r/Rentbusters/))
     - https://screenme.nl/en/
   - Docs:
