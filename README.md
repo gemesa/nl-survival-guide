@@ -12,7 +12,7 @@
     - **https://hurenbij.vesteda.com/** | **https://vbtverhuurmakelaars.nl/en**
     - **https://zoeken.schepvastgoedmanagers.nl** | **https://frisiamakelaars.nl/en**
     - **https://ikwilhuren.nu/** | **https://vanweeldevastgoed.nl/**
-    - **https://rentvalley.nl/en/**
+    - **https://rentvalley.nl/en/** | **https://nationaalgrondbezit.nl/**
     - https://www.athomevastgoed.nl | https://www.huurwoningen.nl/
     - https://www.bjornd.nl/en/home | https://livresidential.nl/
     - https://viadaan.nl/aanbod | https://www.vestingvastgoed.nl/
