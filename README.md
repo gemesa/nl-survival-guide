@@ -7,18 +7,20 @@
     - Role, employment dates and contact person at previous company.
 - Arrange housing. After arrival, just use the company HQ as address temporarily.
   - Platforms:
-    - https://www.stekkies.com/en/ | https://rentslam.com/en/
-    - https://www.pararius.com/english | https://www.funda.nl/en/
-    - **https://hurenbij.vesteda.com/** | **https://vbtverhuurmakelaars.nl/en**
-    - **https://zoeken.schepvastgoedmanagers.nl** | **https://frisiamakelaars.nl/en**
-    - **https://ikwilhuren.nu/** | **https://vanweeldevastgoed.nl/**
-    - **https://rentvalley.nl/en/** | **https://nationaalgrondbezit.nl/**
-    - https://www.athomevastgoed.nl | https://www.huurwoningen.nl/
-    - https://www.bjornd.nl/en/home | https://livresidential.nl/
-    - https://viadaan.nl/aanbod | https://www.vestingvastgoed.nl/
-    - https://www.woonnet-haaglanden.nl (paid, depends on how long you have been registered)
-    - https://calculator.rentbuster.nl/ (for verifying WWS points) (+ [link 1](https://www.reddit.com/r/NetherlandsHousing/comments/15l2dq0/to_those_of_you_coming_to_live_in_nl_feeling/) + [link 2](https://www.reddit.com/r/Rentbusters/))
-    - https://screenme.nl/en/
+    - T1:
+      - https://www.stekkies.com/en/ | https://rentslam.com/en/
+      - https://www.pararius.com/english | https://www.funda.nl/en/
+      - https://hurenbij.vesteda.com/ | https://vbtverhuurmakelaars.nl/en
+      - https://ikwilhuren.nu/ | https://zoeken.schepvastgoedmanagers.nl | 
+      - https://calculator.rentbuster.nl/ (for verifying WWS points) (+ [link 1](https://www.reddit.com/r/NetherlandsHousing/comments/15l2dq0/to_those_of_you_coming_to_live_in_nl_feeling/) + [link 2](https://www.reddit.com/r/Rentbusters/))
+    - T2:
+      - https://frisiamakelaars.nl/en | https://vanweeldevastgoed.nl/
+      - https://rentvalley.nl/en/ | https://nationaalgrondbezit.nl/
+      - https://www.athomevastgoed.nl | https://www.huurwoningen.nl/
+      - https://www.bjornd.nl/en/home | https://livresidential.nl/
+      - https://viadaan.nl/aanbod | https://www.vestingvastgoed.nl/
+      - https://www.woonnet-haaglanden.nl (paid, depends on how long you have been registered)
+      - https://screenme.nl/en/
   - Docs:
     - Work contract (provided by the employer).
     - Employer's statement (provided by the employer).
