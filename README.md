@@ -20,10 +20,10 @@
       - https://www.athomevastgoed.nl | https://www.huurwoningen.nl/
       - https://livresidential.nl/
       - https://viadaan.nl/aanbod | https://www.vestingvastgoed.nl/
-      - https://www.woonnet-haaglanden.nl (paid, depends on how long you have been registered)
       - https://screenme.nl/en/
     - T3:
-      - https://www.huurwoningen-nederland.nl
+      - https://www.woonnet-haaglanden.nl (paid)
+      - https://www.huurwoningen-nederland.nl (paid)
   - Docs:
     - Work contract (provided by the employer).
     - Employer's statement (provided by the employer).
