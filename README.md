@@ -18,7 +18,7 @@
       - https://frisiamakelaars.nl/en | https://vanweeldevastgoed.nl/
       - https://rentvalley.nl/en/ | https://nationaalgrondbezit.nl/
       - https://www.athomevastgoed.nl | https://www.huurwoningen.nl/
-      - https://livresidential.nl/
+      - https://livresidential.nl/ | https://nrw-wonen.nl/
       - https://viadaan.nl/aanbod | https://www.vestingvastgoed.nl/
       - https://screenme.nl/en/
     - T3:
