@@ -12,7 +12,7 @@
       - https://www.pararius.com/english | https://www.funda.nl/en/
       - https://hurenbij.vesteda.com/ | https://vbtverhuurmakelaars.nl/en
       - https://ikwilhuren.nu/ | https://zoeken.schepvastgoedmanagers.nl
-      - https://www.bjornd.nl/en/home
+      - https://www.karensrealestate.nl/ | https://www.bjornd.nl/en/home
       - https://calculator.rentbuster.nl/ (for verifying WWS points) (+ [link 1](https://www.reddit.com/r/NetherlandsHousing/comments/15l2dq0/to_those_of_you_coming_to_live_in_nl_feeling/) + [link 2](https://www.reddit.com/r/Rentbusters/))
     - T2:
       - https://frisiamakelaars.nl/en | https://vanweeldevastgoed.nl/
