@@ -15,9 +15,9 @@
       - https://www.karensrealestate.nl/ | https://www.bjornd.nl/en/home
       - https://calculator.rentbuster.nl/ (for verifying WWS points) (+ [link 1](https://www.reddit.com/r/NetherlandsHousing/comments/15l2dq0/to_those_of_you_coming_to_live_in_nl_feeling/) + [link 2](https://www.reddit.com/r/Rentbusters/))
     - T2:
-      - https://frisiamakelaars.nl/en | https://vanweeldevastgoed.nl/
+      - https://www.huurwoningen.nl/ | https://frisiamakelaars.nl/en
+      - https://www.athomevastgoed.nl | https://vanweeldevastgoed.nl/
       - https://rentvalley.nl/en/ | https://nationaalgrondbezit.nl/
-      - https://www.athomevastgoed.nl | https://www.huurwoningen.nl/
       - https://livresidential.nl/ | https://nrw-wonen.nl/
       - https://viadaan.nl/aanbod | https://www.vestingvastgoed.nl/
       - https://screenme.nl/en/
