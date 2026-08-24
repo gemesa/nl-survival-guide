@@ -13,9 +13,9 @@
       - https://hurenbij.vesteda.com/ | https://vbtverhuurmakelaars.nl/en
       - https://ikwilhuren.nu/ | https://zoeken.schepvastgoedmanagers.nl
       - https://www.karensrealestate.nl/ | https://www.bjornd.nl/en/home
+      - https://www.huurwoningen.nl/ (paid)
       - https://calculator.rentbuster.nl/ (for verifying WWS points) (+ [link 1](https://www.reddit.com/r/NetherlandsHousing/comments/15l2dq0/to_those_of_you_coming_to_live_in_nl_feeling/) + [link 2](https://www.reddit.com/r/Rentbusters/))
     - T2:
-      - https://www.huurwoningen.nl/ (paid)
       - https://frisiamakelaars.nl/en
       - https://www.athomevastgoed.nl | https://vanweeldevastgoed.nl/
       - https://rentvalley.nl/en/ | https://nationaalgrondbezit.nl/
