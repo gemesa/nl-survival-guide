@@ -46,7 +46,7 @@
 - Activate [MijnOverheid](https://mijn.overheid.nl/) (website for your dealings with the Dutch authorities). **DigiD is necessary for login**.
   - After activation, download the [MijnGegevens](https://play.google.com/store/apps/details?id=nl.rijksoverheid.mijngegevens.pub) app.
 - Register foreign documents:
-  - [Make an appointment](https://www.delft.nl/afspraak-maken-annuleren) at Gemeente Delft (category: Register foreign documents).
+  - [Make an appointment](https://www.delft.nl/afspraak-maken-annuleren) at Gemeente Delft (category: Register foreign documents/Buitenlandse akten registreren).
   - Marriage certificate (note: they did not need the translated version). See [Registering a foreign marriage](https://www.delft.nl/buitenlands-huwelijk-registreren).
   - Birth certificate.
     - [Request new certificate](https://magyarorszag.hu/szuf_ugyleiras?id=92dace7c-71a0-4734-81d3-65d4d1045381) with translation (english, dutch).
