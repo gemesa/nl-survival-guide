@@ -30,7 +30,8 @@
     - https://web-alert.io/
   - Docs:
     - Work contract (provided by the employer).
-    - Employer's statement (provided by the employer).
+    - [Employer's statement](https://business.gov.nl/staff/personnel-costs-and-salary/how-to-draw-up-an-employers-statement/) (provided by the employer).
+      - Contains the declaration of intent.
     - Extract from the Personal Records Database (BRP) [Gemeente The Hague](https://www.denhaag.nl/en/certificates-and-official-documents/apply-for-extract-from-the-personal-records-database-brp/), [Gemeente Delft](https://www.delft.nl/uittreksel-brp) (provided by the municipality, can be requested **online with DigiD**).
     - UWV statement of employment history (Verzekeringsbericht) **without BSN** (provided by [UWV](https://mijn.uwv.nl), can be requested **online with DigiD**).
       - Persoonlijke gegevens --> Loongegevens --> Verzekeringsbericht --> Uncheck BSN --> Download printversie (pdf)
