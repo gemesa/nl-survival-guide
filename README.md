@@ -8,23 +8,25 @@
 - Arrange housing. After arrival, just use the company HQ as address temporarily.
   - Platforms:
     - T1:
-      - https://www.stekkies.com/en/ | https://rentslam.com/en/
       - https://www.pararius.com/english | https://www.funda.nl/en/
-      - https://hurenbij.vesteda.com/ | https://vbtverhuurmakelaars.nl/en
-      - https://ikwilhuren.nu/ | https://zoeken.schepvastgoedmanagers.nl
-      - https://www.karensrealestate.nl/ | https://www.bjornd.nl/en/home
+      - https://ikwilhuren.nu/ | https://vbtverhuurmakelaars.nl/en
+      - https://hurenbij.vesteda.com/ | https://zoeken.schepvastgoedmanagers.nl
+      - https://www.bjornd.nl/en/home | https://gohome.io/
       - https://www.huurwoningen.nl/ (paid)
-      - https://calculator.rentbuster.nl/ (for verifying WWS points) (+ [link 1](https://www.reddit.com/r/NetherlandsHousing/comments/15l2dq0/to_those_of_you_coming_to_live_in_nl_feeling/) + [link 2](https://www.reddit.com/r/Rentbusters/))
     - T2:
-      - https://frisiamakelaars.nl/en
+      - https://www.karensrealestate.nl/ | https://frisiamakelaars.nl/en
       - https://www.athomevastgoed.nl | https://vanweeldevastgoed.nl/
       - https://rentvalley.nl/en/ | https://nationaalgrondbezit.nl/
       - https://livresidential.nl/ | https://nrw-wonen.nl/
       - https://viadaan.nl/aanbod | https://www.vestingvastgoed.nl/
-      - https://screenme.nl/en/
     - T3:
       - https://www.woonnet-haaglanden.nl (paid)
       - https://www.huurwoningen-nederland.nl (paid)
+  - Tools:
+    - https://www.stekkies.com/en/ | https://rentslam.com/en/
+    - https://calculator.rentbuster.nl/ (for verifying WWS points) (+ [link 1](https://www.reddit.com/r/NetherlandsHousing/comments/15l2dq0/to_those_of_you_coming_to_live_in_nl_feeling/) + [link 2](https://www.reddit.com/r/Rentbusters/))
+    - https://www.datakeeper.nl/en | https://screenme.nl/en/
+    - https://web-alert.io/
   - Docs:
     - Work contract (provided by the employer).
     - Employer's statement (provided by the employer).
