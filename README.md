@@ -2,6 +2,7 @@
 
 - Secure work contract.
   - Apply for [30% ruling](https://www.belastingdienst.nl/wps/wcm/connect/en/individuals/content/coming-to-work-in-the-netherlands-30-percent-facility) **within 4 months**.
+    - Docs: application form, proof of registration, contract, BSc + MSc diplomas, ID, CV.
   - Background check:
     - BSc + MSc diplomas scanned.
     - Role, employment dates and contact person at previous company.
@@ -43,7 +44,11 @@
 - [DigiD application **online**](https://digid.nl/en/aanvragen).
 - Activate [MijnOverheid](https://mijn.overheid.nl/) (website for your dealings with the Dutch authorities). **DigiD is necessary for login**.
   - After activation, download the [MijnGegevens](https://play.google.com/store/apps/details?id=nl.rijksoverheid.mijngegevens.pub) app.
-- Register my foreign marriage certificate. [Make an appointment](https://www.delft.nl/afspraak-maken-annuleren) at Gemeente Delft (category: Register foreign documents). See [Registering a foreign marriage](https://www.delft.nl/buitenlands-huwelijk-registreren).
+- Register foreign documents:
+  - [Make an appointment](https://www.delft.nl/afspraak-maken-annuleren) at Gemeente Delft (category: Register foreign documents).
+  - Marriage certificate (note: they did not need the translated version). See [Registering a foreign marriage](https://www.delft.nl/buitenlands-huwelijk-registreren).
+  - Birth certificate.
+    - [Request new certificate](https://magyarorszag.hu/szuf_ugyleiras?id=92dace7c-71a0-4734-81d3-65d4d1045381) with translation (english, dutch).
 - Health insurance coverage (**within 4 months**):
   - [System explanation](https://www.reddit.com/r/Netherlands/comments/1dyxztd/can_you_please_explain_the_healthcare_in_the/).
   - Compare insurances at [independer.nl](https://www.independer.nl/) or [zorgwijzer.nl](https://www.zorgwijzer.nl/zorgvergelijker/english#/search).
@@ -69,6 +74,7 @@
   - Wise:
     - Belgian IBAN by default (if you registered in Hungary).
     - [Changing the country of residence](https://wise.com/help/articles/3umiLdiQoFLxh0xP36MEIO/how-do-i-update-my-country-of-residence) can be done by contacting the support and providing proof of residence documents. The review takes 1 day.
+    - [Turn on Interest](https://wise.com/gb/interest/).
   - Revolut:
     - Hungarian IBAN by default (if you registered in Hungary).
     - [Changing the country of residence](https://help.revolut.com/en-NL/help/profile-and-plan/profile-plan/profile-settings/how-do-i-change-my-country-of-residence/) (and getting a Dutch IBAN) is not possible. The old account needs to be closed and a new one needs to be created.
