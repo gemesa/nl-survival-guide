@@ -6,7 +6,7 @@
   - Background check:
     - BSc + MSc diplomas scanned.
     - Role, employment dates and contact person at previous company.
-- Arrange housing. After arrival, just use the company HQ as address temporarily.
+- Arrange housing. After arrival, just use the company HQ as address temporarily (up to 4 months max.).
   - Platforms:
     - T1:
       - https://www.pararius.com/english | https://www.funda.nl/en/
