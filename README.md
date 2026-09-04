@@ -13,6 +13,7 @@
       - https://ikwilhuren.nu/ | https://vbtverhuurmakelaars.nl/en
       - https://hurenbij.vesteda.com/ | https://zoeken.schepvastgoedmanagers.nl
       - https://www.bjornd.nl/en/home | https://gohome.io/
+      - https://www.vastgoednederland.nl/
       - https://www.beauvastgoed.nl/ | https://www.huurwoningen.nl/ (paid)
     - T2:
       - https://www.karensrealestate.nl/ | https://frisiamakelaars.nl/en
