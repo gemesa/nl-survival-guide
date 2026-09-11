@@ -63,6 +63,7 @@
 - [TB deregistration **online**](https://www.neak.gov.hu/felso_menu/lakossagnak/ellatas_magyarorszagon/jogosultsag_az_ellatasra/kulfoldon_munkat_vallalok_bejelentese) (**within 15 days**).
   - NEAK notifies NAV automatically (confirmed by NAV on 31 Jul 2026). Still, if NAV bills you for the health service contribution, use form T1011U to get it cancelled retroactively **online**.
 - [Send the European Health Insurance Card (EHIC) back](https://www.neak.gov.hu/felso_menu/lakossagnak/ellatas_magyarorszagon/jogosultsag_az_ellatasra/kulfoldon_munkat_vallalok_bejelentese).
+  - [Családtámogatási és Társadalombiztosítási Főosztály](https://kormanyhivatalok.hu/kormanyhivatalok/veszprem/megye/szervezet/csaladtamogatasi-es-tarsadalombiztositasi-foosztaly)
 - Dutch bank account.
   - This is necessary for Wero/iDEAL (preferred for online payments).
   - After setting up an account, change the preferred name so it displays the full name. Many document requests require it.
